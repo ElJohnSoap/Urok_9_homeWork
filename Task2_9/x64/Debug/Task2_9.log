@@ -1,0 +1,17 @@
+﻿  Task2_9.cpp
+C:\Users\hloiv\source\repos\Urok_9_homeWork\Task2_9\Task2_9.cpp(15,15): warning C4244: 'return': conversion from 'T2' to 'T1', possible loss of data
+          with
+          [
+              T2=double
+          ]
+          and
+          [
+              T1=int
+          ]
+C:\Users\hloiv\source\repos\Urok_9_homeWork\Task2_9\Task2_9.cpp(42): message : see reference to function template instantiation 'T1 line<int,double>(T1,T2)' being compiled
+          with
+          [
+              T1=int,
+              T2=double
+          ]
+  Task2_9.vcxproj -> C:\Users\hloiv\source\repos\Urok_9_homeWork\Task2_9\x64\Debug\Task2_9.exe
