@@ -1,0 +1,3 @@
+﻿  Task4_9.cpp
+C:\Users\hloiv\source\repos\Urok_9_homeWork\Task4_9\Task4_9.cpp(58,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Task4_9.vcxproj -> C:\Users\hloiv\source\repos\Urok_9_homeWork\Task4_9\x64\Debug\Task4_9.exe
